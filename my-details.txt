@@ -1,0 +1,4 @@
+fullname: divya
+college-classification:
+major: Electrical & Electronics
+minor:
