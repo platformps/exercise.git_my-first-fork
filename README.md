@@ -1,6 +1,7 @@
 # My First Fork
 * **Objective** - To fork a project, `add`, `commit`, and `push` a single change upstream.
 * **Purpose** - To familiarize with basic `git` commands
+* **Description** - Upon cloning the repository, read and respectively edit the `my-details.txt` and `git push` the changes to **your** remote repository.
 
 ### Part 1 - Forking the Project
 * To _fork_ the project, click the `Fork` button located at the top right of the project.
