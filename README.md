@@ -1,6 +1,6 @@
 # My First Fork
 * **Objective** - To fork a project, `add`, `commit`, and `push` a single change upstream.
-* **Objective** - To familiarize with basic `git` commands
+* **Purpose** - To familiarize with basic `git` commands
 
 ### Part 1 - Forking the Project
 * To _fork_ the project, click the `Fork` button located at the top right of the project.
